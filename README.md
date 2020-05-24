@@ -1,3 +1,1 @@
-# Jugando con PHP
-
-`composer require renattonl/dni-ruc`
+# Test con PHP
