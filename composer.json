@@ -1,7 +1,6 @@
 {
     "name": "renattonl/dni-ruc",
-    "description": "Consultas gratuita de RUC y DNI en Perú",
-    "keywords": ["sunat", "reniec", "dni", "ruc", "clave-sol", "peru"],
+    "description": "test demo php",
     "license": "MIT",
     "authors": [
         {
